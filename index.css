@@ -14,8 +14,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #5c4b7a;
-    color: white;
+    background-color: #d3b93b;
+    color: blue;
 }
 
 input, button {
